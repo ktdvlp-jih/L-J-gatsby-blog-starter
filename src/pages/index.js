@@ -39,7 +39,7 @@ export default ({ data, location }) => {
   const posts = data.allMarkdownRemark.edges
   const categories = useMemo(
     () => _.uniq(posts.map(({ node }) => node.frontmatter.category)),
-    [],
+    []
   )
   const tags = data.tagsGroup.group
 

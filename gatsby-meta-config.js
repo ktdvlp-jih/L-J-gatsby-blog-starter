@@ -1,9 +1,9 @@
 module.exports = {
-  title: `L&J Blog Starter`,
-  description: `L&J 블로그`,
-  author: `L&J`,
+  title: `ktdvlphun blog`,
+  description: `ktdvlphun blog`,
+  author: `L&J1`,
   introduction: `L&J 블로그에 오신것을 환영합니다.`,
-  siteUrl: `https://l-j-gatsby-blog-starter.netlify.app/`, // Your blog site url
+  siteUrl: `https://ktdvlphun.netlify.app/`, // Your blog site url
   social: {
     github: `LeeAndJang/L-J-gatsby-blog-starter`, // Your GitHub account
     lblog: `https://ramsbaby.netlify.app/`,
